@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "title": "AI Image Generator AI - Free Oneline",
+        "description": "Unlock the magic of the AI image generator free online to realize your vision. With a simple prompt, generate vivid, unique images that elevate your content.",
+        "keywords": [
+            "AI Image Generator",
+            "AI Image Generator Free Online"
+        ]
+    },
+    "h1": "AI Image Generator Free Online",
+    "desc": "Tap into the potential of the AI image generator to ignite your projects. Just enter a prompt and produce stunning, professional artwork that gets noticed.",
+    "generate": {
+        "upload": {
+            "title": "Image Upload",
+            "support": "support：PNG、JPEG、WebP",
+            "tip": "No image? Try one of these"
+        },
+        "prompt": {
+            "title": "Prompt",
+            "placeholder": "Describe what you want to create......"
+        },
+        "btn-gen": "Generate Images",
+        "btn-gening": "Generating...",
+        "btn-poll": "Waiting for result...",
+        "t-create": "Creating generation task...",
+        "t-poll": "Generating image..."
+    },
+    "info": {
+        "title": "What is AI Image to Image Generator?",
+        "p1": "Image to Image AI is a powerful transformation tool that lets you convert existing images into new variations using advanced artificial intelligence. Unlike text-to-image generators that create images from scratch, our technology preserves the structure and composition of your original image while applying the changes you describe.",
+        "p2": "Our system utilizes state-of-the-art neural networks that understand both your source image and your instructions, intelligently applying transformations while maintaining the integrity of key elements. This provides exceptional control over the final result with the perfect balance between transformation and preservation.",
+        "p3": "Whether you're a designer seeking to visualize concepts, a marketer creating multiple variations of campaign assets, or a creative enthusiast experimenting with artistic styles, Image to Image AI delivers professional-quality results with remarkable efficiency."
+    },
+    "steps": {
+        "title": "How to Create AI-Generated Images?",
+        "desc": "Follow these simple steps to create stunning AI-generated images with ease using the online AI Image Generator.",
+        "step-1": {
+            "title": "1. Access the AI Image Generator",
+            "desc": "To begin, sign up for a free account or log in to your existing one. Navigate to the Text to Image section to start using the AI Image Generator—the heart of this AI-driven image creation tool. This step is crucial because it’s how you unlock the full potential of the AI Image Generator and start generating images with AI."
+        },
+        "step-2": {
+            "title": "2. Craft Your Text Prompt",
+            "desc": "Type a clear and detailed description of the image you want to create. Aim for five words or more to help define the scene. For example, \"a futuristic city skyline at dusk.\" Add extra details like atmosphere, colors, or artistic style to help shape your results."
+        },
+        "step-3": {
+            "title": "3. Generate Your Image",
+            "desc": "Click the \"Generate\" button and watch as the AI creates four different images based on your prompt. If you want a specific theme or style, upload an image or sketch for reference and regenerate new variations tailored to your preferences."
+        },
+        "step-4": {
+            "title": "4. Refine and Customize",
+            "desc": "Fine-tune your image by adjusting the prompt or making specific edits to the settings. Once you’re happy with the result, you can use the image for various projects such as social media, websites, or presentations. Download, share, or save the image directly to your device."
+        }
+    },
+    "features": {
+        "title": "Why choose AI Image Editor",
+        "desc": "Discover the advantages that make our platform the smart choice for AI-powered image editing:",
+        "feature-1": {
+            "title": "Unleash Your Creative Potential with AI",
+            "desc": "Enjoy the ease of the AI picture generator free online for your imagination. Just a quick text input makes your concepts visually spectacular. The core of this experience is the AI Image Generator, which uses advanced AI to turn simple text into stunning images. Whether you’re working on branding, social media, or personal projects, this AI Image Generator gives you the freedom to express your creativity like never before—all thanks to the power of AI and its ability to craft unique images on demand. Every time you use the AI Image Generator, you’re tapping into AI’s potential to redefine how images are created, making the process faster and more intuitive than ever."
+        },
+        "feature-2": {
+            "title": "Instant Inspiration at Your Fingertips",
+            "desc": "With the AI Image Generator, inspiration is just a prompt away. This AI tool ensures that whether you’re starting from scratch or refining an existing idea, you can generate images that reflect your vision in seconds. The AI Image Generator doesn’t stop at one result—it delivers four unique images per prompt, each crafted by AI to match your needs. From photorealistic shots to abstract art, the AI Image Generator uses AI to explore new design possibilities, turning every prompt into a set of diverse images. This instant output is what makes the AI Image Generator a go-to for anyone seeking quick, high-quality AI-generated images."
+        },
+        "feature-3": {
+            "title": "Endless Styles, Infinite Results",
+            "desc": "The AI Image Generator lets you experiment with various art styles, from minimalistic designs to intricate realism—all powered by AI. This generator offers the flexibility to generate images in a range of artistic forms, thanks to its advanced AI models. You can choose from a variety of filters, textures, and lighting adjustments within the AI Image Generator, or experiment with color schemes to bring your ideas to life in the perfect visual tone. Every style you explore is made possible by AI, which processes your preferences and translates them into cohesive images. The AI Image Generator ensures that no two images are the same if you tweak your prompts, making it easy to find the exact look you want with AI’s help."
+        }
+    },
+    "cta": {
+        "title": "Use PixleMuse AI Now",
+        "tip-1": "Free to start",
+        "tip-2": "No credit card required",
+        "tip-3": "Professional quality output",
+        "start": "Transform Your First Image",
+        "desc": "Join thousands of creators transforming their images with AI"
+    },
+    "faqs": {
+        "title": "Have questions We have answers!",
+        "desc": "Want to know more? You can email us anytime at",
+        "faq-1": {
+            "question": "What is Text to Image in AI?",
+            "answer": "Text to Image is a form of generative AI that allows you to create images simply by typing a text description. The AI system—core to the AI Image Generator—interprets the words in the input as instructions and generates an image by analyzing the connections between the words and their meanings. This feature is what makes the AI Image Generator so user-friendly, as it turns text into images without requiring any design skills."
+        },
+        "faq-2": {
+            "question": "How Does Text to Image Work?",
+            "answer": "Text to Image AI generators—like the AI Image Generator—operate similarly to other AI technologies, utilizing machine learning models and vast datasets to generate images. Essentially, the AI in the AI Image Generator \"learns\" from thousands of images and applies this knowledge to interpret the text you provide. It then creates entirely new visuals based on the language and context you input. The current model of the AI Image Generator is trained on a mix of licensed images, publicly available works, and content in the public domain where copyright has expired—ensuring AI generates legal, high-quality images."
+        },
+        "faq-3": {
+            "question": "Are AI-Generated Images Available for Commercial Use?",
+            "answer": "Yes, images created with AI features of the AI Image Generator that are out of beta can be used commercially. For features still in beta, you can generally use the generated images for commercial purposes, unless explicitly stated otherwise in the product terms or a specific agreement. The AI Image Generator is designed to support both personal and commercial projects, so you can use its AI-generated images with confidence for client work, marketing, or any other commercial endeavor."
+        },
+        "faq-4": {
+            "question": "What if I’m not satisfied with the transformation results?",
+            "answer": "We suggest refining your prompt for more clarity, experimenting with different transformation strength levels, or generating multiple variations. If needed, our support team is here to assist in optimizing your results."
+        },
+        "faq-5": {
+            "question": "How long does the transformation take?",
+            "answer": "Typically, transformations finish within seconds, though more intricate changes may take up to a minute. You can also generate multiple outputs at once to quickly explore various options."
+        },
+        "faq-6": {
+            "question": "What types of prompts work best?",
+            "answer": "Detailed, specific prompts that describe style, composition, lighting, and subject matter yield the best results. The more information you provide about your desired image, the more accurately the AI can interpret your vision."
+        },
+        "faq-7": {
+            "question": "Are there any limitations to using AI  Image Generator?",
+            "answer": "While our platform excels at a wide range of image styles and concepts, extremely abstract or ambiguous prompts may produce varied results. Additionally, all users must adhere to our content policies prohibiting inappropriate or harmful content generation."
+        },
+        "faq-8": {
+            "question": "How does Image to Image differ from Text to Image generation?",
+            "answer": "Image to Image uses your existing image as a starting point, maintaining its core structure while applying transformations. Text to Image creates completely new images from text descriptions with no visual reference point."
+        }
+    }
+}
