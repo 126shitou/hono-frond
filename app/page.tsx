@@ -19,7 +19,7 @@ export default function AuthPage() {
     e.preventDefault();
     setMessage("Processing...");
     
-    const baseUrl = "https://hono-demo.hebeidianxin2945.workers.dev";
+    const baseUrl = "https://api.aiimagegenerator.uk";
     const endpoint = isLogin
       ? `${baseUrl}/api/auth/sign-in/email`
       : `${baseUrl}/api/auth/sign-up/email`;
